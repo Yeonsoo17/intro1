@@ -32,7 +32,7 @@ body{
     max-width: 25%;
     max-height: 60%;
     top: 12em;
-   /*  width: 408px;
+   /*  ui팀이 설정한 로고 크기 width: 408px;
     height: 685px; */
 }
 #flip{
@@ -43,13 +43,6 @@ body{
    transition: 1.1s;
     cursor: pointer;
 }
-/* .door img> #close{
-    opacity: 0;
-    transition: opacity 1s;
-}
-.door img:hover > #close{
-    opacity: 1;
-} */
 .footer{ /*바닥*/
     grid-area: footer;
     margin: 0;

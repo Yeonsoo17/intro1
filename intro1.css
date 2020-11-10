@@ -8,8 +8,8 @@ body{
     grid-template-areas: 
         "logo door" 
         "footer footer";
-/*     grid-template-columns: 1fr 1fr; */
-    grid-template-rows: 5fr 1fr;
+ grid-template-columns: 1fr 1fr; 
+    grid-template-rows: 751px 47px; /*1080-47-330한 값+현재 내 노트북 최적 사이즈, 바닥 47로 설정한 값*/
     position: relative;
 }
 .logo{
